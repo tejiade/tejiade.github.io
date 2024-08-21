@@ -4,8 +4,8 @@
 
 Hi.The release page of 'tejia.de' on GitHub\
 您好！关于特价的(tejia.de)位于github的发布页面\
-长期域名: http://xb.qmtao.com\
-临时域名:http://tejia.id.cd\
+长期域名: http://xb.qmtao.com
+临时域名: http://tejia.id.cd
 
 
 #### 微信&邮箱
