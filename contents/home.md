@@ -1,17 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![tejiade](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/tejiade)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Hi.The release page of 'tejia.de' on GitHub/
+您好！关于特价的(tejia.de)位于github的发布页面/
+长期域名: http://xb.qmtao.com
+临时域名:http://tejia.id.cd
 
-#### Email
-sli[at]cumt.edu.cn
+
+#### 邮箱
+tejiade[at]126.com
 
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+#### 说明
+特价的是一个专业分享各类生活优惠、游玩优惠、好价商品、促销分析、优惠秒杀等为一体的综合类线报平台。特价的,线报网,赚客吧,酷安,豆瓣线报,小豆等
