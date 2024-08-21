@@ -2,14 +2,15 @@
 
 [![tejiade](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/tejiade)
 
-Hi.The release page of 'tejia.de' on GitHub/
-您好！关于特价的(tejia.de)位于github的发布页面/
-长期域名: http://xb.qmtao.com
-临时域名:http://tejia.id.cd
+Hi.The release page of 'tejia.de' on GitHub\
+您好！关于特价的(tejia.de)位于github的发布页面\
+长期域名: http://xb.qmtao.com\
+临时域名:http://tejia.id.cd\
 
 
-#### 邮箱
-tejiade[at]126.com
+#### 微信&邮箱
+微信：q201618818\
+邮箱：tejiade@126.com
 
 
 #### 说明
